@@ -65,11 +65,11 @@ else:
 
 
 ## Travel Tip List 
--[x]Pack heavy-you probably need less than you think.
+- [ ] Pack heavy-you probably need less than you think.
 
--[ ]Try some local food instead of eating your favorite burgers all the time.[^1]
+- [x] Try some local food instead of eating your favorite burgers all the time.[^1]
 
--[ ]Always leave some extra time for expected things.
+- [x] Always leave some extra time for expected things.
 
 ## Footnote
 [^1]:want to find the best local food ?try to find the longest queue out there,mostly likely you won't be disappointed.
