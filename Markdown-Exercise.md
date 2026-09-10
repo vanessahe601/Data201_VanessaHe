@@ -1,9 +1,9 @@
 
-**# Markdown Exercise**
+# Markdown Exercise
 
 **Qian He** 
 
-*September 10,2026*
+*September 10, 2026*
 
 ## My Profile
 
