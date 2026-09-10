@@ -44,6 +44,7 @@ Lists of places i want to go:
 > Knowing yourself is the beginning of all wisdom. -Aristotle
 
 ## Inline Code & Code Block
+
 `print("Welcome to my world!")`
 ```python
 #countries(countries that you have been to )
