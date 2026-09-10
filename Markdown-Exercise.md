@@ -37,8 +37,8 @@ Lists of places i want to go:
 
 ## A sneak peak of Italy
 
-[![Italian
-Picture](Screenshot%202026-09-10%20at%2011.32.43.png)](https://lovetovisititaly.substack.com/p/seven-italian-cities-two-ways-to)
+![Italian
+Picture](https://lovetovisititaly.substack.com/p/seven-italian-cities-two-ways-to)
 
 ## My Favorite Quote
 
