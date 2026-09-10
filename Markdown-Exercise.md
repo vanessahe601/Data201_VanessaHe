@@ -16,13 +16,19 @@ I like traveling ,cooking,reading and math.
 ## Lists
 
 Lists of places i have been: 
+
 1.Italy 
+
 2.Paris 
+
 3.Argentina
 
 Lists of places i want to go: 
+
 -london 
+
 -South Africa 
+
 -Swizerland
 
 ## Link of a music I like
@@ -60,7 +66,9 @@ else:
 
 ## Travel Tip List 
 -[x]Pack heavy-you probably need less than you think.
+
 -[ ]Try local food instead of eating your favorite burgers all the time.[^1]
+
 -[ ]Always leave some extra time for expected things.
 
 ## Footnote
