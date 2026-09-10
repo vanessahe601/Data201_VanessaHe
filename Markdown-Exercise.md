@@ -35,9 +35,9 @@ Lists of places i want to go:
 
 [music](https://www.youtube.com/watch?v=zw9EVo6r5Gs)
 
-## A sneak peak of Italy
+## A sneak peek of Italy
 
-![ItalianPicture](https://lovetovisititaly.substack.com/p/seven-italian-cities-two-ways-to) 
+![Italian Picture](https://substackcdn.com/image/fetch/$s_!pIiU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F550eab9a-8b79-43fd-969d-3af8d4a13b7b_512x640.heic) 
 
 ## My Favorite Quote
 
