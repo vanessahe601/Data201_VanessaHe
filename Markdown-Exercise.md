@@ -64,7 +64,7 @@ else:
 
 
 
-## Travel Tip List 
+## Travel TipS 
 - [ ] Pack heavy-you probably need less than you think.
 
 - [x] Try some local food instead of eating your favorite burgers all the time.[^1]
